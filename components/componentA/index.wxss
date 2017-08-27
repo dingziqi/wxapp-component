@@ -1,0 +1,6 @@
+.componentA{
+  font-size: 26rpx;
+  text-align: center;
+  padding: 24rpx;
+  box-shadow: 0 0 10rpx rgba(0, 0, 0, .5);
+}

@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<import src="../../components/componentA/index.wxml" />
+
+<view class="container">
+  <template is="componentA" data="{{...__componentA[id]}}"></template>
+</view>

@@ -1,0 +1,3 @@
+<template name="componentA">
+  <view class="componentA" bindtap="{{fn}}">{{name}} is instanceof componentA, you can click me.</view>
+</template>
